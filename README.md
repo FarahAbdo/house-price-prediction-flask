@@ -4,6 +4,8 @@
 
 The **Creative Motion Task - House Price prediction** is a web application designed to predict property prices based on various input features, utilizing machine learning models. This project implements Flask to provide a user-friendly interface for real-time predictions, demonstrating the integration of different frameworks and technologies.
 
+![Screenshot 2024-10-17 215438](https://github.com/user-attachments/assets/f10a6cc4-260f-4ba0-a965-bb092637af2e)
+
 ## Features
 
 - **User Input**: Users can input various property features such as square footage, number of bedrooms, age of the property, and location rating.
@@ -32,3 +34,5 @@ Make sure you have the following installed:
 
 ```bash
 git clone https://github.com/FarahAbdo/creative_motion_task.git
+```
+
