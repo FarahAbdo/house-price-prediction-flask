@@ -33,6 +33,6 @@ Make sure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/FarahAbdo/creative_motion_task.git
+https://github.com/FarahAbdo/house-price-prediction-flask.git
 ```
 
